@@ -1,0 +1,10 @@
+[1mdiff --git a/newgitrep b/newgitrep[m
+[1mindex bfcde91..e3f055c 100644[m
+[1m--- a/newgitrep[m
+[1m+++ b/newgitrep[m
+[36m@@ -1,2 +1,2 @@[m
+ hiiii geting the work done [m
+[31m-this is a new feature we are trying to add(button)[m
+\ No newline at end of file[m
+[32m+[m[32mthis is a new feature we are trying to add[m
+\ No newline at end of file[m
